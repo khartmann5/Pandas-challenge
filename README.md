@@ -1,4 +1,4 @@
-# Hereos of Pymoli
+# Heroes of Pymoli
 
 In the game of Hereos of Pymoli there are 576 total players of which males make up 84.03% the largest gender identity playing the game. However, those who identify as Other / Non-Disclosed tend to spend more per person at $4.56 and males spending the least at $4.07 (which is most likely due to more male players).
 
